@@ -1,0 +1,15 @@
+# Environment / Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Screenshots (optional - uncomment to exclude)
+# screenshots/
+
+# Temp files
+*.log
+notepad
+py

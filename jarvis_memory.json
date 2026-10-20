@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Open Chrome"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure thing—opening Chrome for you now. 🚀"
+  },
+  {
+    "role": "user",
+    "content": "open chrome"
+  },
+  {
+    "role": "assistant",
+    "content": "Got it! Chrome is now open. Enjoy browsing. 🚀"
+  }
+]
